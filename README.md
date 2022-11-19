@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goabhishek" alt="goabhishek" /></a> </p>
 
-- 🔭 I’m currently working on [Prowfit](https://res.cloudinary.com/mabhi8251/image/upload/v1662548807/Gloitel-fitness/logo_rnhxc1.png)
+- 🔭 I’m currently working on [Gloitel Consulting Pvt Ltd.](https://gloitel.in/)
 
-- 🌱 I’m currently learning **Frontend Technology using React.js , Next.js , HTML5 ,Node.js**
+- 🌱 I’m currently learning **Frontend Technology React.js , Next.js , HTML5 ,Node.js ,Javascript, React-Native**
 
 - 👯 I’m looking to collaborate on **React.js Technology**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gooabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gooabhishek" height="30" width="40" /></a>
+<a href="https://www.twitter.com/goabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gooabhishek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/gooabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gooabhishek" height="30" width="40" /></a>
 <a href="https://fb.com/abhishek mishea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek mishea" height="30" width="40" /></a>
 <a href="https://instagram.com/imabhi.mishra007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imabhi.mishra007" height="30" width="40" /></a>
