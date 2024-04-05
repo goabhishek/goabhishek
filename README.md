@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goabhishek" alt="goabhishek" /></a> </p>
 
-- 🔭 I’m currently working on [Gloitel Consulting Pvt Ltd.](https://gloitel.in/)
+- 🔭 I’m currently working on [Nimbusnext AITech India Pvt Ltd](https://nimbusnext.com/)
 
 - 🌱 I’m currently learning **Frontend Technology React.js , Next.js , HTML5 ,Node.js ,Javascript, React-Native**
 
