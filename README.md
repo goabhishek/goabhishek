@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @goabhishek</h1>
-<h3 align="center">frontend web developer</h3>
+<h3 align="center">Software Engineer || Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="goabhishek" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React.js Technology**
 
-- 💬 Ask me about **React.js,React-Native,Next.js,JavaScript**
+- 💬 Ask me about **React.js, React-Native, Next.js, Node.js, JavaScript**
 
 - 📫 How to reach me **mabhishek4156@gmail.com, +918251850022**
 
